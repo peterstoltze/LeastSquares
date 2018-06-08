@@ -1,10 +1,10 @@
 # LeastSquares
 Visualization of the Ordinary Least Squares estimation of slope for a simple linear model
 
-(1) Left pane illustrates line (defined by center of mass and slope) and individual squared residuals
-(2) Right pane illustrates sum of squared residuals as function of slope
+1. Left pane illustrates line (defined by center of mass and slope) and individual squared residuals
+2. Right pane illustrates sum of squared residuals as function of slope
 
-![Resulting GIF](https://github.com/PeterStoltze/LeastSquares/blob/master/LeastSquares.gif
+![Resulting GIF](https://github.com/PeterStoltze/LeastSquares/blob/master/LeastSquares.gif)
 
 I originally created this back in 2010 using only base R and in less than 100 lines of code. The multipage pdf was added to LaTeX slides (beamer) and brought to live using the animate package.
 

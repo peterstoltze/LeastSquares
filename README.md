@@ -6,7 +6,7 @@ Visualization of the Ordinary Least Squares estimation of slope for a simple lin
 
 <img src="https://github.com/PeterStoltze/LeastSquares/blob/master/LeastSquares.gif" width="666" alt="Result converted to GIF">
 
-I originally created this back in 2010 using only base R and in less than 100 lines of code. The multipage pdf was added to LaTeX slides (beamer) and brought to live using the animate package.
+I originally created this back in 2010 using only base R and in less than 100 lines of code. The multipage pdf was added to LaTeX [beamer slides](http://peterstoltze.dk/stat/kap11/kap11.pdf) and brought to live using the animate package (slides are ).
 
 Today and edited the code ever so slightly converting comments from Danish to English, and then I converted the resulting multipage pdf to an animated gif using a webservice, https://ezgif.com/.
 

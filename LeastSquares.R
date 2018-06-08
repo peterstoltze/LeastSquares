@@ -84,7 +84,7 @@ LinRegPlot <- function(i){
 } # end-of-function
 
 
-pdf ("SumSquaresSeq.pdf", onefile=TRUE, version = "1.4", width=6,height=4)
+pdf ("LeastSquares.pdf", onefile=TRUE, version = "1.4", width=6,height=4)
 for (i in 1:nstep){
   LinRegPlot(i)
 }

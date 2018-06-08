@@ -8,9 +8,9 @@ Visualization of the Ordinary Least Squares estimation of slope for a simple lin
 
 I originally created this back in 2010 using only base R and in less than 100 lines of code. The multipage pdf was added to a set of LaTeX [slides](http://peterstoltze.dk/stat/kap11/kap11.pdf) made with beamer and brought to live using the animate package.
 
-Today and edited the code ever so slightly converting comments from Danish to English, and then I converted the resulting multipage pdf to an animated gif using a webservice, https://ezgif.com/.
+Today I edited the code ever so slightly converting comments from Danish to English, and then I converted the resulting multipage pdf to an animated gif using a webservice, https://ezgif.com/.
 
-IMHO a nice touch is the shading of the overlapping squares :-)
+IMHO a nice touch is the shading of the overlapping squares using the alpha argument in the rgb() function.
 
 Please feel free to improve upon this. A few things come to mind:
 * Create the gif using code
